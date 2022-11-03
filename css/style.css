@@ -8,3 +8,19 @@ body {
 	-o-background-size: cover;
 	background-size: cover;
 }
+
+#container {
+	background: white;
+	width: 1000px;
+	color: black;
+	padding: 15px;
+	}
+
+h1 {
+	font-size: 50px;
+}
+
+a {
+	color: #75c1f6;
+	text-decoration: none;
+}
